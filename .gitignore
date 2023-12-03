@@ -1,0 +1,12 @@
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.log
+.tmp
+/node_modules
+financer/child_category/
+.log
+.tmp
+/node_modules
+.idea/
