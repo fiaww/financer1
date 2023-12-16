@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Основные категории",
+    "name": "Недвижимость",
+    "grade": 5,
+    "colour": "Brown"
+  },
+  {
+    "title": "Основные категории",
+    "name": "Еда",
+    "grade": 5,
+    "colour": "Green"
+  },
+  {
+    "title": "Основные категории",
+    "name": "Здоровье",
+    "grade": 5,
+    "colour": "Red"
+  },
+  {
+    "title": "Основные категории",
+    "name": "Транспорт",
+    "grade": 4,
+    "colour": "Yellow"
+  },
+  {
+    "title": "Основные категории",
+    "name": "Покупки",
+    "grade": 3,
+    "colour": "Blue"
+  },
+  {
+    "title": "Основные категории",
+    "name": "Инвестиции",
+    "grade": 3,
+    "colour": "White"
+  },
+  {
+    "title": "Основные категории",
+    "name": "Развлечения",
+    "grade": 3,
+    "colour": "Purple"
+  },
+
+
+  {
+    "title": "Подкатегории",
+    "name": "Плата за жильё",
+    "parent_category": "Недвижимость",
+    "grade": 5,
+    "colour": "Brown"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Коммунальные услуги",
+    "parent_category": "Недвижимость",
+    "grade": 5,
+    "colour": "Brown"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Продукты",
+    "parent_category": "Еда",
+    "grade": 5,
+    "colour": "Green"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Кафе/рестораны",
+    "parent_category": "Еда",
+    "grade": 2,
+    "colour": "Green"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Фастфуд",
+    "parent_category": "Еда",
+    "grade": 2,
+    "colour": "Green"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Лекарства",
+    "parent_category": "Здоровье",
+    "grade": 5,
+    "colour": "Red"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Услуги врачей",
+    "parent_category": "Здоровье",
+    "grade": 5,
+    "colour": "Red"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Профилактика",
+    "parent_category": "Здоровье",
+    "grade": 3,
+    "colour": "Red"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Личный транспорт",
+    "parent_category": "Транспорт",
+    "grade": 3,
+    "colour": "Yellow"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Общественный транспорт",
+    "parent_category": "Транспорт",
+    "grade": 5,
+    "colour": "Yellow"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Такси",
+    "parent_category": "Транспорт",
+    "grade": 3,
+    "colour": "Yellow"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Одежда",
+    "parent_category": "Покупки",
+    "grade": 3,
+    "colour": "Blue"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Покупки для дома",
+    "parent_category": "Покупки",
+    "grade": 3,
+    "colour": "Blue"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Расходники",
+    "parent_category": "Покупки",
+    "grade": 4,
+    "colour": "Blue"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Подарки",
+    "parent_category": "Покупки",
+    "grade": 1,
+    "colour": "Blue"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Хобби",
+    "parent_category": "Развлечения",
+    "grade": 2,
+    "colour": "Purple"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Билеты/походы на мероприятия",
+    "parent_category": "Развлечения",
+    "grade": 2,
+    "colour": "Purple"
+  },
+  {
+    "title": "Подкатегории",
+    "name": "Игрушки, настольные игры, видеоигры",
+    "parent_category": "Развлечения",
+    "grade": 2,
+    "colour": "Purple"
+  }
+]
