@@ -1,0 +1,731 @@
+[
+  {
+    "id": "1",
+    "title": "Основные категории",
+    "name": "Доход",
+    "type": "+",
+    "grade": 5,
+    "colour": "Yellow"
+  },
+  {
+    "id": "2",
+    "title": "Основные категории",
+    "name": "Жильё",
+    "type": "-",
+    "grade": 5,
+    "colour": "Orange"
+  },
+  {
+    "id": "3",
+    "title": "Основные категории",
+    "name": "Еда и напитки",
+    "type": "-",
+    "grade": 5,
+    "colour": "Red"
+  },
+  {
+    "id": "4",
+    "title": "Основные категории",
+    "name": "Покупки",
+    "type": "-",
+    "grade": 3,
+    "colour": "Light blue"
+  },
+  {
+    "id": "5",
+    "title": "Основные категории",
+    "name": "Транспорт",
+    "type": "-",
+    "grade": 4,
+    "colour": "Gray"
+  },
+  {
+    "id": "6",
+    "title": "Основные категории",
+    "name": "Автомобиль",
+    "type": "-",
+    "grade": 3,
+    "colour": "Purple"
+  },
+  {
+    "id": "7",
+    "title": "Основные категории",
+    "name": "Инвестиции",
+    "type": "-",
+    "grade": 3,
+    "colour": "Pink"
+  },
+  {
+    "id": "8",
+    "title": "Основные категории",
+    "name": "Развлечения и досуг",
+    "type": "-",
+    "grade": 2,
+    "colour": "Green"
+  },
+  {
+    "id": "9",
+    "title": "Основные категории",
+    "name": "Связь, ПК",
+    "type": "-",
+    "grade": 5,
+    "colour": "Blue"
+  },
+  {
+    "id": "10",
+    "title": "Основные категории",
+    "name": "Финансовые расходы",
+    "type": "-",
+    "grade": 5,
+    "colour": "Mint"
+  },
+  {
+    "id": "11",
+    "title": "Основные категории",
+    "name": "Другие",
+    "type": "-",
+    "grade": 4,
+    "colour": "Brown"
+  },
+
+
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Зарплата, счета-фактуры",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 5,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Проценты, дивиденты",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 4,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Продажа",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 3,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Доход от аренды",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 3,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Взносы и гранты",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 3,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Кредит, аренда",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 3,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Чеки, купоны",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 3,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Лотереи, азартные игры",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 2,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Возврат денег(налог, покупка)",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 5,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Алименты",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 3,
+    "colour": "Yellow"
+  },
+  {
+    "id": "1",
+    "title": "Подкатегории",
+    "name": "Подарки",
+    "type": "+",
+    "parent_category": "Доход",
+    "grade": 3,
+    "colour": "Yellow"
+  },
+  {
+    "id": "2",
+    "title": "Подкатегории",
+    "name": "Аренда",
+    "type": "-",
+    "parent_category": "Жильё",
+    "grade": 5,
+    "colour": "Orange"
+  },
+  {
+    "id": "2",
+    "title": "Подкатегории",
+    "name": "Ипотека",
+    "type": "-",
+    "parent_category": "Жильё",
+    "grade": 5,
+    "colour": "Orange"
+  },
+  {
+    "id": "2",
+    "title": "Подкатегории",
+    "name": "Электричество, коммунальные услуги",
+    "type": "-",
+    "parent_category": "Жильё",
+    "grade": 5,
+    "colour": "Orange"
+  },
+  {
+    "id": "2",
+    "title": "Подкатегории",
+    "name": "Услуги",
+    "type": "-",
+    "parent_category": "Жильё",
+    "grade": 3,
+    "colour": "Orange"
+  },
+  {
+    "id": "2",
+    "title": "Подкатегории",
+    "name": "Ремонт",
+    "type": "-",
+    "parent_category": "Жильё",
+    "grade": 3,
+    "colour": "Orange"
+  },
+  {
+    "id": "2",
+    "title": "Подкатегории",
+    "name": "Страхование имущества",
+    "type": "-",
+    "parent_category": "Жильё",
+    "grade": 4,
+    "colour": "Orange"
+  },
+  {
+    "id": "3",
+    "title": "Подкатегории",
+    "name": "Продукты",
+    "type": "-",
+    "parent_category": "Еда и напитки",
+    "grade": 5,
+    "colour": "Red"
+  },
+  {
+    "id": "3",
+    "title": "Подкатегории",
+    "name": "Рестораны, фаст-фуд",
+    "type": "-",
+    "parent_category": "Еда и напитки",
+    "grade": 2,
+    "colour": "Red"
+  },
+  {
+    "id": "3",
+    "title": "Подкатегории",
+    "name": "Бар, кафе",
+    "type": "-",
+    "parent_category": "Еда и напитки",
+    "grade": 2,
+    "colour": "Red"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Одежда и обувь",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 4,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Украшения, аксессуары",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 2,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Красота и здоровье",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 3,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Дети",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 4,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Дом и сад",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 4,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Домашние животные",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 2,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Электроника, аксессуары",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 4,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Подарки",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 2,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Инструменты",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 3,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Свободное время",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 2,
+    "colour": "Light blue"
+  },
+  {
+    "id": "4",
+    "title": "Подкатегории",
+    "name": "Аптека",
+    "type": "-",
+    "parent_category": "Покупки",
+    "grade": 4,
+    "colour": "Light blue"
+  },
+  {
+    "id": "5",
+    "title": "Подкатегории",
+    "name": "Общественный транспорт",
+    "type": "-",
+    "parent_category": "Транспорт",
+    "grade": 5,
+    "colour": "Gray"
+  },
+  {
+    "id": "5",
+    "title": "Подкатегории",
+    "name": "Такси",
+    "type": "-",
+    "parent_category": "Транспорт",
+    "grade": 3,
+    "colour": "Gray"
+  },
+  {
+    "id": "5",
+    "title": "Подкатегории",
+    "name": "Дальние поездки",
+    "type": "-",
+    "parent_category": "Транспорт",
+    "grade": 2,
+    "colour": "Gray"
+  },
+  {
+    "id": "5",
+    "title": "Подкатегории",
+    "name": "Деловые поездки",
+    "type": "-",
+    "parent_category": "Транспорт",
+    "grade": 5,
+    "colour": "Gray"
+  },
+  {
+    "id": "6",
+    "title": "Подкатегории",
+    "name": "Топливо",
+    "type": "-",
+    "parent_category": "Автомобиль",
+    "grade": 3,
+    "colour": "Purple"
+  },
+  {
+    "id": "6",
+    "title": "Подкатегории",
+    "name": "Парковка",
+    "type": "-",
+    "parent_category": "Автомобиль",
+    "grade": 3,
+    "colour": "Purple"
+  },
+  {
+    "id": "6",
+    "title": "Подкатегории",
+    "name": "Техобслуживание",
+    "type": "-",
+    "parent_category": "Автомобиль",
+    "grade": 3,
+    "colour": "Purple"
+  },
+  {
+    "id": "6",
+    "title": "Подкатегории",
+    "name": "Аренда",
+    "type": "-",
+    "parent_category": "Автомобиль",
+    "grade": 3,
+    "colour": "Purple"
+  },
+  {
+    "id": "6",
+    "title": "Подкатегории",
+    "name": "Страхование автомобиля",
+    "type": "-",
+    "parent_category": "Автомобиль",
+    "grade": 3,
+    "colour": "Purple"
+  },
+  {
+    "id": "6",
+    "title": "Подкатегории",
+    "name": "Лизинг",
+    "type": "-",
+    "parent_category": "Автомобиль",
+    "grade": 3,
+    "colour": "Purple"
+  },
+  {
+    "id": "7",
+    "title": "Подкатегории",
+    "name": "Недвижимость",
+    "type": "-",
+    "parent_category": "Инвестиции",
+    "grade": 3,
+    "colour": "Pink"
+  },
+  {
+    "id": "7",
+    "title": "Подкатегории",
+    "name": "Транспортные средства, движимое имущество",
+    "type": "-",
+    "parent_category": "Инвестиции",
+    "grade": 3,
+    "colour": "Pink"
+  },
+  {
+    "id": "7",
+    "title": "Подкатегории",
+    "name": "Финансовые инвестиции",
+    "type": "-",
+    "parent_category": "Инвестиции",
+    "grade": 3,
+    "colour": "Pink"
+  },
+  {
+    "id": "7",
+    "title": "Подкатегории",
+    "name": "Сбережения",
+    "type": "-",
+    "parent_category": "Инвестиции",
+    "grade": 4,
+    "colour": "Pink"
+  },
+  {
+    "id": "7",
+    "title": "Подкатегории",
+    "name": "Коллекции",
+    "type": "-",
+    "parent_category": "Инвестиции",
+    "grade": 3,
+    "colour": "Pink"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Лечение",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 5,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Оздоровительные процедуры, красота",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 3,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Спорт, фитнес",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 3,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Культура и спорт",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 3,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Праздники",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 2,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Хобби",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 2,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Образование, развитие",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 4,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Книги, аудио, подписки",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 4,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "ТВ и вещание",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 2,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Отдых, поездки, отели",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 2,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Подарки и благотворительность",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 1,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Алкоголь, табак",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 1,
+    "colour": "Green"
+  },
+  {
+    "id": "8",
+    "title": "Подкатегории",
+    "name": "Лотереи, азартные игры",
+    "type": "-",
+    "parent_category": "Развлечения и досуг",
+    "grade": 1,
+    "colour": "Green"
+  },
+  {
+    "id": "9",
+    "title": "Подкатегории",
+    "name": "Телефон",
+    "type": "-",
+    "parent_category": "Связь, ПК",
+    "grade": 5,
+    "colour": "Blue"
+  },
+  {
+    "id": "9",
+    "title": "Подкатегории",
+    "name": "Интернет",
+    "type": "-",
+    "parent_category": "Связь, ПК",
+    "grade": 5,
+    "colour": "Blue"
+  },
+  {
+    "id": "9",
+    "title": "Подкатегории",
+    "name": "Программы, игры",
+    "type": "-",
+    "parent_category": "Связь, ПК",
+    "grade": 2,
+    "colour": "Blue"
+  },
+  {
+    "id": "9",
+    "title": "Подкатегории",
+    "name": "Почтовые услуги",
+    "type": "-",
+    "parent_category": "Связь, ПК",
+    "grade": 5,
+    "colour": "Blue"
+  },
+  {
+    "id": "10",
+    "title": "Подкатегории",
+    "name": "Налоги",
+    "type": "-",
+    "parent_category": "Финансовые расходы",
+    "grade": 5,
+    "colour": "Mint"
+  },
+  {
+    "id": "10",
+    "title": "Подкатегории",
+    "name": "Страхование",
+    "type": "-",
+    "parent_category": "Финансовые расходы",
+    "grade": 4,
+    "colour": "Mint"
+  },
+  {
+    "id": "10",
+    "title": "Подкатегории",
+    "name": "Займы, проценты",
+    "type": "-",
+    "parent_category": "Финансовые расходы",
+    "grade": 1,
+    "colour": "Mint"
+  },
+  {
+    "id": "10",
+    "title": "Подкатегории",
+    "name": "Штрафы",
+    "type": "-",
+    "parent_category": "Финансовые расходы",
+    "grade": 5,
+    "colour": "Mint"
+  },
+  {
+    "id": "10",
+    "title": "Подкатегории",
+    "name": "Консультация",
+    "type": "-",
+    "parent_category": "Финансовые расходы",
+    "grade": 3,
+    "colour": "Mint"
+  },
+  {
+    "id": "10",
+    "title": "Подкатегории",
+    "name": "Сборы, платы",
+    "type": "-",
+    "parent_category": "Финансовые расходы",
+    "grade": 1,
+    "colour": "Mint"
+  },
+  {
+    "id": "10",
+    "title": "Подкатегории",
+    "name": "Алименты",
+    "type": "-",
+    "parent_category": "Финансовые расходы",
+    "grade": 5,
+    "colour": "Mint"
+  },
+  {
+    "id": "11",
+    "title": "Подкатегории",
+    "name": "Другие",
+    "type": "-",
+    "parent_category": "Другие",
+    "grade": 5,
+    "colour": "Brown"
+  }
+]
